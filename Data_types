@@ -1,0 +1,5 @@
+//Number Data type 
+
+console.log(3 % 10) == 3 // is True 
+
+
