@@ -5,3 +5,13 @@ Javascript
 console.log(3 % 10) == 3 // is True 
 
 
+//Boolean
+
+De Morgan Law 
+
+not(A and B) <-> not A or not B 
+
+explanation: not(A and B) is the intersection of A and B. Not (A and B) is the remaining space minus the intersection. We can this space like union of not A plus not B. 
+
+
+
