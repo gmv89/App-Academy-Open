@@ -13,5 +13,7 @@ not(A and B) <-> not A or not B
 
 explanation: not(A and B) is the intersection of A and B. Not (A and B) is the remaining space minus the intersection. We can this space like union of not A plus not B. 
 
+not(A or B) <-> not A and not B 
 
+explanation: not (A or B) is a empty space. 
 
